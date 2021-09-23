@@ -1,0 +1,10 @@
+# Conditional statements are used for comparison between values and the having an output
+# Let us assign some random varibles 
+int1=int(input("Enter First Integer: "))
+int2=int(input("Enter Second Integer: "))
+
+# To compare two numbers
+if (int2>int2):
+  print(int2,"is greater than",int1)
+else:
+  print(int1,"is greater than",int2)
