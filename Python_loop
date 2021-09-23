@@ -1,0 +1,10 @@
+# To access a set of statement again and again
+# For Loop
+# To print value from 0 to 10
+for i in range(0,11):   # Last value is 10 (last limit-1)
+  print(i)              # Value of I keep changing from 0 to 9
+
+# Looping with Indentation
+for i in range(0,11,2):
+  print(i)              # Value of i keep changing from 0 to 10 with a gap of 2
+# Output will be like 0 2 4 6 and so on till 10.  
