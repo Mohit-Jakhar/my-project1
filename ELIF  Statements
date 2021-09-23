@@ -1,0 +1,13 @@
+# Nested Conditional Statement - whe we use IF statemt again we do not use IF gain and again instead of it we use ELIF statement 
+# To comapre three numbers
+
+int1=int(input("Enter First Number: "))
+int2=int(input("Enter Second Number: "))
+int3=int(input("Enter Third Number: "))
+# To compare all three integers inpputed by user
+if (int1>int2) and (int>int3):
+    print(int1,"is greatest")
+elif(int2>int2) and (int2>int3):
+    print(int2,"is greatest")
+else:
+    print(int3,"is greatest")
